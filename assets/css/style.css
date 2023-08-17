@@ -36,6 +36,9 @@ img {
     width: 100%;
 }
 
+.skill img{
+    width: 70px;
+}
 .text-brand {
     color: var(--color-brand);
 }
